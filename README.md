@@ -9,8 +9,8 @@ some materials about deep learning on medical image like x-rays, MRI, CT
 * [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](https://arxiv.org/abs/1707.01836)
 
 ### Segementation:
-    * [Fully Convolutional Networks for Semantic Segmentation](http://arxiv.org/abs/1411.4038)
-    * [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFS](http://arxiv.org/pdf/1412.7062v3.pdf)
+* [Fully Convolutional Networks for Semantic Segmentation](http://arxiv.org/abs/1411.4038)
+* [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFS](http://arxiv.org/pdf/1412.7062v3.pdf)
 
 ## Article
 
