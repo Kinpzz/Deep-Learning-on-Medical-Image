@@ -24,9 +24,13 @@ some materials about deep learning on medical image like x-rays, MRI, CT
 
 ## Caffe
 
-[[Caffe入门随笔](http://www.cnblogs.com/zhubinwang/p/6297912.html)](http://www.cnblogs.com/zhubinwang/p/6297912.html)
+[Caffe入门随笔](http://www.cnblogs.com/zhubinwang/p/6297912.html)
 
 ## Note
-
+* [Paper Notes](https://github.com/Kinpzz/Deep-Learning-on-Medical-Image/issues/8)
+* [CS231n](https://github.com/Kinpzz/Deep-Learning-on-Medical-Image/issues/2)
 See issues for details
+
+## Blog
+[Caffe 入门](https://blog.kinpzz.com/2017/07/30/Caffe-%E5%85%A5%E9%97%A8/)
 
